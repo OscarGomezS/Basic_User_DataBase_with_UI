@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "names": "Deisy Milena",
+            "lastnames": "Martinez Rugeles",
+            "age": "32",
+            "email": "deisymilenamartinez04@gmail.com"
+        },
+        {
+            "id": 2,
+            "names": "\u00d3scar Alfonso",
+            "lastnames": "G\u00f3mez Sep\u00falveda",
+            "age": "29",
+            "email": "oscar.gomez.sp@gmail.com"
+        }
+    ]
+}
